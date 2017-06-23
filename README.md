@@ -1,4 +1,4 @@
-#MODULE_BETTERCAP
+# MODULE_BETTERCAP
 module_ettercap es un modulo desarollado para la herramienta condor, este modulo nos permite realizar cualquier tipo de ataque que la herramienta bettercap  nos permita realizar, solo que en condor sera de una forma mas dinamica y facil de utilizar.
 
 
@@ -9,4 +9,3 @@ by [@sasaga92](https://twitter.com/sasaga92)
 
 
 :heart_eyes: happy hacking!!!
-
